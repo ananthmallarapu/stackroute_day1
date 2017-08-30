@@ -1,0 +1,15 @@
+body{
+	background-color: lightgrey;
+	font-weight: bold;
+	font-family: Arial;
+}
+.main{
+	width: 600px;
+	margin: auto;
+}
+.block{
+	border: 2.5px solid #e0e0e0;
+	padding: 15px;
+	text-align: center;
+	margin: none;
+}
